@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm just an idiot who can use NodeJS to an acceptable-ish level and is unhelathily obsessed with web dev.
+I'm just an idiot who can use NodeJS to an acceptable-ish level and is unhealthily obsessed with web dev.
 
 #### Current Projects:
 - [BotBiscuit](https://dev801.github.io/botbiscuit)
