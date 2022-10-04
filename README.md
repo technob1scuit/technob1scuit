@@ -2,7 +2,7 @@
 
 I'm just an idiot who can use NodeJS to an acceptable-ish level and is unhealthily obsessed with web dev.
 
-#### Current projects:
+#### "Current" projects:
 - [BaseBiscuitv2](https://github.com/EmerilDevs/BaseBiscuitv2)
 - [BotBiscuit](https://dev801.github.io/botbiscuit)
 - [Emoji Bot](https://dev801.github.io/emojibot)
